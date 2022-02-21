@@ -29,3 +29,7 @@ wget https://github.com/bitwarden/cli/releases/download/v1.21.1/bw-linux-1.21.1.
 unzip bw-linux-1.21.1.zip
 chmod +x bw
 ```
+
+
+https://gitsecret.jfrog.io/artifactory/git-secret-deb/
+https://github.com/sobolevn/git-secret
