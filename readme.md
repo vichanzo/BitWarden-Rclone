@@ -19,8 +19,8 @@ Commands to run:
 ```
 git clone https://github.com/vichanzo/BitWarden-Rclone/
 cd BitWarden-Rclone
-docker image build -t BitWarden-Rclone
-docker container run BitWarden-Rclone
+docker image build -t bitwarden-rclone .
+docker container run bitwarden-rclone
 ```
 
 Shell script:
